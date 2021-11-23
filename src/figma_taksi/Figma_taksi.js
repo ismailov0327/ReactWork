@@ -83,7 +83,17 @@ function Figma_taksi() {
                         </tr>
                     </tbody>
 
-                  
+                    <thead className="thead_footer">
+                        <tr>
+                            <th><p className="number_footer">16</p> Объектов</th>
+                            <th><p className="number_footer">76</p> Общий итог</th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                            <th><p className="number_footer">20</p> Дефектов</th>
+                        </tr>
+                    </thead>
                     
                 </Table>
 
